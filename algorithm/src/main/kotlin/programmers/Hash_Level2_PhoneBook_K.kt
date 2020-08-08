@@ -6,6 +6,7 @@ object Hash_Level2_PhoneBook_K {
         phoneBook: Array<String>
     ): Boolean {
 
+        //https://programmers.co.kr/learn/courses/30/lessons/42577
         var answer = true
 
         for ((i, value) in phoneBook.withIndex()) {
