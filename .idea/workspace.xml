@@ -1,10 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3cfd70db-b18e-4311-adff-36f42959e163" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/.idea/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/.idea/algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/java/main/base/stack/BaseStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/java/main/programmers/Hash_Level1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/java/main/programmers/Hash_Level2_Camouflage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/java/main/programmers/Hash_Level2_PhoneBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/java/main/programmers/hash/Hash_Level1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/java/main/programmers/hash/Hash_Level2_Camouflage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/java/main/programmers/hash/Hash_Level2_PhoneBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/java/main/programmers/stack/Stack_Level2_Truck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/java/main/toss/Toss_Server_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/java/main/toss/Toss_Server_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/kotlin/main/META-INF/algorithm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/kotlin/main/programmers/Brute_Force_Level1_Mock_Exam$solution$$inlined$compareBy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/kotlin/main/programmers/Brute_Force_Level1_Mock_Exam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/kotlin/main/programmers/Brute_Froce_Level2_Decimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/kotlin/main/programmers/Hash_Level1_Marathon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/kotlin/main/programmers/Sort_Level2_Biggest$solution$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/kotlin/main/programmers/Sort_Level2_Biggest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/kotlin/main/programmers/Sort_Level2_H_Index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/kotlin/main/programmers/Sort_Level2_K.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/kotlin/main/programmers/Stack_Level2_Top.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/classes/kotlin/main/programmers/Stack_Level2_Truck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/base/stack/BaseStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/programmers/hash/Hash_Level1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/programmers/hash/Hash_Level2_Camouflage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/programmers/hash/Hash_Level2_PhoneBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/programmers/stack/Stack_Level2_Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/kotlin/programmers/Brute_Force_Level1_Mock_Exam.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/kotlin/programmers/Brute_Froce_Level2_Decimal.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/kotlin/programmers/Hash_Level1_Marathon.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/kotlin/programmers/Hash_Level2_Camouflage_K.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/kotlin/programmers/Hash_Level2_PhoneBook_K.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/kotlin/programmers/Sort_Level2_Biggest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/kotlin/programmers/Sort_Level2_H_Index.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/kotlin/programmers/Sort_Level2_K.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/kotlin/programmers/Stack_Level2_Top.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/kotlin/programmers/Stack_Level2_Truck.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +156,37 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/algorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\seunghwan Seo\Desktop\GIT\algorithm\algorithm\src\main\kotlin\programmers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -46,22 +203,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596384126357">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598504638922">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596384126357" />
-    <state x="493" y="179" key="FileChooserDialogImpl" timestamp="1596384245148">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1598504638922" />
+    <state x="405" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598499457527">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="493" y="179" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596384245148" />
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589353843586" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1596384176425">
+    <state x="405" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1598499457527" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598504509802">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1596384176425" />
-    <state x="339" y="120" key="new project wizard" timestamp="1589353858161">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1598504509801" />
+    <state x="493" y="179" key="FileChooserDialogImpl" timestamp="1598504708146">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="339" y="120" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589353858161" />
+    <state x="493" y="179" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598504708146" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1598504650981">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1598504650981" />
+    <state x="37" y="0" key="new project wizard" timestamp="1598504732814">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="37" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1598504732814" />
   </component>
 </project>
