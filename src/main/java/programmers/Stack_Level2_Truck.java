@@ -1,5 +1,7 @@
-package programmers.stack;
+package programmers;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
@@ -13,27 +15,27 @@ public class Stack_Level2_Truck {
         Stack<Integer> truckStack = new Stack<Integer>();
         Map<Integer, Integer> bridgeMap = new HashMap<Integer, Integer>();
 
-        for(int i = truck_weights.length-1; i>=0; i--) {
+        for (int i = truck_weights.length - 1; i >= 0; i--) {
             truckStack.push(truck_weights[i]);
         }
 
-        int sum =0;
-        while(true) {
+        int sum = 0;
+        while (true) {
             answer++;
 
-            if(bridgeMap.containsKey(answer)) {
+            if (bridgeMap.containsKey(answer)) {
                 bridgeMap.remove(answer);
             }
 
             sum = bridgeMap.values().stream().mapToInt(Number::intValue).sum();
 
-            if(!truckStack.isEmpty()) {
-                if(sum + truckStack.peek() <= weight) {
+            if (!truckStack.isEmpty()) {
+                if (sum + truckStack.peek() <= weight) {
                     bridgeMap.put(answer + bridge_length, truckStack.pop());
                 }
             }
 
-            if(bridgeMap.isEmpty() && truckStack.isEmpty())
+            if (bridgeMap.isEmpty() && truckStack.isEmpty())
                 break;
         }
 
@@ -42,8 +44,11 @@ public class Stack_Level2_Truck {
     }
 
 
-    public static void main(String [] args) {
-        System.out.println(solution(2, 10, new int[] {7,4,5,6}));
+    public static void main(String[] args) {
+        System.out.println(solution(2, 10, new int[]{7, 4, 5, 6}));
+
+
+
     }
 
 }

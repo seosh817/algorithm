@@ -1,6 +1,6 @@
 package programmers
 
-object Hash_Level2_Camouflage_K {
+object Hash_Level2_Camouflage_KT {
 
     //https://programmers.co.kr/learn/courses/30/lessons/42578
     fun solution1(clothes: Array<Array<String>>): Int {

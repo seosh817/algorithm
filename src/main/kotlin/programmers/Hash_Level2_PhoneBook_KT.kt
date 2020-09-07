@@ -1,6 +1,6 @@
 package programmers
 
-object Hash_Level2_PhoneBook_K {
+object Hash_Level2_PhoneBook_KT {
 
     fun solution(
         phoneBook: Array<String>
