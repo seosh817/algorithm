@@ -1,4 +1,4 @@
-package BOJ.DFSBFS;
+package BOJ.탐색;
 
 public class Pair<I extends Integer, I1 extends Integer> {
     Integer first;

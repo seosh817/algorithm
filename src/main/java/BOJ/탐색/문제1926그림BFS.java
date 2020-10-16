@@ -1,11 +1,14 @@
-package BOJ.DFSBFS;
+package BOJ.탐색;
+
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Stack;
+import java.util.LinkedList;
+import java.util.Queue;
 
-public class 문제1926그림DFS {
+
+public class 문제1926그림BFS {
 
     static int n;
     static int m;
@@ -40,21 +43,21 @@ public class 문제1926그림DFS {
                     if (visited[i][j] || board[i][j] == 0) continue;
 
                     count++;
-                    Stack<Pair<Integer, Integer>> stack = new Stack<>();
+                    Queue<Pair<Integer, Integer>> queue = new LinkedList<>();
                     visited[i][j] = true;
-                    stack.push(new Pair(i, j));
+                    queue.add(new Pair(i, j));
                     int area = 0;
-                    while (!stack.isEmpty()) {
+                    while (!queue.isEmpty()) {
                         area++;
-                        Pair<Integer, Integer> cur = stack.peek();
-                        stack.pop();
+                        Pair<Integer, Integer> cur = queue.peek();
+                        queue.poll();
                         for (int dir = 0; dir < 4; dir++) {
                             int nx = cur.first + dx[dir];
                             int ny = cur.second + dy[dir];
                             if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;
                             if (visited[nx][ny] || board[nx][ny] == 0) continue;
                             visited[nx][ny] = true;
-                            stack.push(new Pair(nx, ny));
+                            queue.add(new Pair(nx, ny));
                         }
                     }
 
