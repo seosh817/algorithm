@@ -3,7 +3,7 @@ package BOJ.DP;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class 문제1463번1로만들기 {
+public class 문제1463번1로만들기DP {
 
     public static void main(String[] args) {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
