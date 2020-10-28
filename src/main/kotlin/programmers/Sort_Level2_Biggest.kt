@@ -19,6 +19,6 @@ object Sort_Level2_Biggest {
 
     @JvmStatic
     fun main(args: Array<String>) {
-            println(solution(intArrayOf(3, 30, 34, 5, 9)))
+        println(solution(intArrayOf(3, 30, 34, 5, 9)))
     }
 }

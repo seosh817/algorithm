@@ -38,12 +38,12 @@ public class 문제3321최고의피자 {
 
             int totalPrice = doughPrice;
             int totalCalorie = doughCalorie;
-            float prevTotalCaloriePerPrice = totalCalorie / (float)totalPrice;
+            float prevTotalCaloriePerPrice = totalCalorie / (float) totalPrice;
 
             for (int i = n - 1; i >= 0; i--) {
                 totalCalorie += toppingCalories[i];
                 totalPrice += toppingPrice;
-                float totalCaloriePerPrice = totalCalorie / (float)totalPrice;
+                float totalCaloriePerPrice = totalCalorie / (float) totalPrice;
                 if (totalCaloriePerPrice > prevTotalCaloriePerPrice) {
                     prevTotalCaloriePerPrice = totalCaloriePerPrice;
                 } else {
@@ -52,7 +52,7 @@ public class 문제3321최고의피자 {
             }
 
 
-            System.out.printf("%1d", (int)Math.floor(prevTotalCaloriePerPrice));
+            System.out.printf("%1d", (int) Math.floor(prevTotalCaloriePerPrice));
 
 
         } catch (IOException e) {

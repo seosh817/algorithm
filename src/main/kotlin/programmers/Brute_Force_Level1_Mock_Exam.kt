@@ -23,20 +23,20 @@ object Brute_Force_Level1_Mock_Exam {
         }
 
         var max = map.maxBy { it.value }?.value
-        for(index in 1..map.size) {
-            if(map[index] != max){
+        for (index in 1..map.size) {
+            if (map[index] != max) {
                 map.remove(index)
             }
         }
 
-        return map.toList().sortedWith(compareBy {it.first}).toMap().keys.toIntArray()
+        return map.toList().sortedWith(compareBy { it.first }).toMap().keys.toIntArray()
     }
 
 
     @JvmStatic
     fun main(args: Array<String>) {
 
-        val array = solution(intArrayOf(1, 3,2,4,2))
+        val array = solution(intArrayOf(1, 3, 2, 4, 2))
 
         for (value in array) {
             println(value)

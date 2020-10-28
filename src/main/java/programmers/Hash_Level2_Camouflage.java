@@ -12,11 +12,11 @@ public class Hash_Level2_Camouflage {
 
         Map<String, Integer> hm = new HashMap<String, Integer>();
 
-        for(int i=0; i<clothes.length; i++) {
+        for (int i = 0; i < clothes.length; i++) {
             String kind = clothes[i][1];
             int num = 1;
             if (hm.containsKey(kind)) {
-                num = hm.get(kind) +1;
+                num = hm.get(kind) + 1;
             }
             hm.put(kind, num);
         }
@@ -27,12 +27,12 @@ public class Hash_Level2_Camouflage {
             answer *= hm.get(key) + 1;
         }
 
-        answer --;
+        answer--;
 
         return answer;
     }
 
-    public static void main(String [] args) {
-        System.out.println(solution(new String [][] {{ "yellow_hat", "headgear"}, {"blue_sunglasses", "eyewear"} , {"green_turban", "headgear"}}));
+    public static void main(String[] args) {
+        System.out.println(solution(new String[][]{{"yellow_hat", "headgear"}, {"blue_sunglasses", "eyewear"}, {"green_turban", "headgear"}}));
     }
 }

@@ -16,7 +16,7 @@ class 문제2016년 {
             year[i] = day[(i+5)% 7];
         }
 
-        for(int i=0; i<a-1; i++) {
+        for(int i=0; i<a-1; i++) { // 2일을 생각하면 day - 1
             want_day += month[i];
         }
 

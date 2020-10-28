@@ -11,7 +11,7 @@ public class 문제1080언제까지더해야할까 {
         while (true) {
             b++;
             sum += b;
-            if(sum >= a) {
+            if (sum >= a) {
                 System.out.println(b);
                 break;
             }

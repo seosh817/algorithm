@@ -48,10 +48,10 @@ public class 문제2667단지번호붙이기 {
                             if (board[nx][ny] == 0 || visited[nx][ny]) continue;
                             visited[nx][ny] = true;
                             area++;
-                            queue.add(new Pair(nx,ny));
+                            queue.add(new Pair(nx, ny));
                         }
                     }
-                    distance.add(area+1);
+                    distance.add(area + 1);
                 }
             }
 

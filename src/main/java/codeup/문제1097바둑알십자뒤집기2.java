@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class 문제1097바둑알십자뒤집기2 {
 
     // int 버전
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         int[][] arr = new int[19][19];
@@ -22,7 +22,7 @@ public class 문제1097바둑알십자뒤집기2 {
         int n = sc.nextInt();
 
         sc.nextLine(); // nextInt()는 마지막 개행문자를 제거하지 않으므로 제거해줘야함
-                        // nextInt()후 nextLine() 사용할때는 무조건 제거해주어야함
+        // nextInt()후 nextLine() 사용할때는 무조건 제거해주어야함
         ArrayList<String> list = new ArrayList();
 
         for (int i = 0; i < n; i++) {

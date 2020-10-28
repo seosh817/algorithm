@@ -7,7 +7,7 @@ object Sort_Level2_H_Index {
         var answer = 0
 
         for ((index, citation) in citations.sortedDescending().withIndex()) {
-            if(citation >= index +1){   // 인용된 횟수는 index + 1이므로 조건을 만족하는 것이 h-index 이다.
+            if (citation >= index + 1) {   // 인용된 횟수는 index + 1이므로 조건을 만족하는 것이 h-index 이다.
                 answer = index + 1
             }
         }

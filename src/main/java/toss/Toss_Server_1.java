@@ -12,17 +12,17 @@ class Toss_Server_1 {
         boolean isOne = false;
         boolean isCheckAll = true;
         for (String s : splitArray) {
-            if(!(s.contains("1") || s.contains("2"))) {
+            if (!(s.contains("1") || s.contains("2"))) {
                 isCheckAll = false;
                 break;
             }
-            if(isOne && !s.equals("2")) {
+            if (isOne && !s.equals("2")) {
                 isCheckAll = false;
                 break;
             }
             if (s.equals("1")) {
                 isOne = true;
-            } else if(s.equals("2")){
+            } else if (s.equals("2")) {
                 isOne = false;
             }
 

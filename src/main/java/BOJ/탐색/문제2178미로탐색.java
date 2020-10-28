@@ -47,7 +47,7 @@ public class 문제2178미로탐색 {
                     queue.add(new Pair(nx, ny));
                 }
             }
-            System.out.println(distance[n-1][m-1] + 1);
+            System.out.println(distance[n - 1][m - 1] + 1);
 
         } catch (IOException e) {
             e.printStackTrace();

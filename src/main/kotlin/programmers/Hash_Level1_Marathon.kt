@@ -2,7 +2,7 @@ package programmers
 
 object Hash_Level1_Marathon {
     fun solution(
-        participant: Array<String>, completion: Array<String>
+            participant: Array<String>, completion: Array<String>
     ): String {
         //https://programmers.co.kr/learn/courses/30/lessons/42576
         var answer = ""

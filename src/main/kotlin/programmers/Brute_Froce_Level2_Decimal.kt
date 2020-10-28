@@ -8,8 +8,8 @@ object Brute_Froce_Level2_Decimal {
 
         var array = ArrayList<String>()
 
-        for(i in numbers.indices) {
-            var sub = numbers.substring(i-1, i)
+        for (i in numbers.indices) {
+            var sub = numbers.substring(i - 1, i)
             array.add(sub)
         }
 
@@ -18,16 +18,15 @@ object Brute_Froce_Level2_Decimal {
     }
 
     fun isPrimeNum(number: Int): Boolean {
-        if(number == 0) return false
-        if(number == 1) return false
-        for(i in 2..number) {
-            if(number % i == 0) {
+        if (number == 0) return false
+        if (number == 1) return false
+        for (i in 2..number) {
+            if (number % i == 0) {
                 return false
             }
         }
         return true
     }
-
 
 
     @JvmStatic

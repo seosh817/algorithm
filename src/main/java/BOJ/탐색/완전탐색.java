@@ -15,9 +15,8 @@ public class 완전탐색 {
     static int dy[] = {0, 1, 0, -1};
     static boolean[][] visited;
     static int[][] board;
-    static int count=0;
+    static int count = 0;
     static int maxArea = 0;
-
 
 
     public static void main(String[] args) {
@@ -36,9 +35,6 @@ public class 완전탐색 {
                     board[i][j] = Integer.parseInt(temp[j]);
                 }
             }
-
-
-
 
 
             Queue<Pair<Integer, Integer>> queue = new LinkedList<>();

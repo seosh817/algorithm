@@ -8,7 +8,7 @@ public class 문제1077정수1개입력받아그수까지출력 {
         int num = sc.nextInt();
         int start = 0;
 
-        while(start <= num) {
+        while (start <= num) {
             System.out.println(start);
             start++;
         }

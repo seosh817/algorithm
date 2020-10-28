@@ -11,7 +11,7 @@ public class 문제1087여기까지이제그만 {
         while (true) {
             a += 1;
             sum += a;
-            if(sum >= num) {
+            if (sum >= num) {
                 System.out.println(sum);
                 break;
             }

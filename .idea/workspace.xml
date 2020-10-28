@@ -5,19 +5,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cfd70db-b18e-4311-adff-36f42959e163" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/hash/Hash_Level1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Hash_Level1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/hash/Hash_Level2_Camouflage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Hash_Level2_Camouflage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/hash/Hash_Level2_PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Hash_Level2_PhoneBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/stack/Stack_Level2_Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Stack_Level2_Truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programmers/Hash_Level2_Camouflage_K.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programmers/Hash_Level2_Camouflage_KT.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programmers/Hash_Level2_PhoneBook_K.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programmers/Hash_Level2_PhoneBook_KT.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programmers/Stack_Level2_Truck.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programmers/Stack_Level2_Truck_KT.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BOJ/탐색/문제1697숨바꼭질.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BOJ/탐색/문제1697숨바꼭질.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BOJ/탐색/문제2178미로탐색.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BOJ/탐색/문제2178미로탐색.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BOJ/탐색/문제2667단지번호붙이기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BOJ/탐색/문제2667단지번호붙이기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BOJ/탐색/완전탐색.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BOJ/탐색/완전탐색.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/그리디/문제3321최고의피자.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/그리디/문제3321최고의피자.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/그리디/문제4040펜션.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/그리디/문제4040펜션.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1024단어1개입력받아나누어출력.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1024단어1개입력받아나누어출력.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1036영문자1개입력받10진수출력.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1036영문자1개입력받10진수출력.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1045정수2개입력받아자동계산.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1045정수2개입력받아자동계산.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1046정수3개입력받아합과평균출력.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1046정수3개입력받아합과평균출력.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1048한번에2의거듭제곱배로출력.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1048한번에2의거듭제곱배로출력.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1064정수3개입력받아가장작은수출력.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1064정수3개입력받아가장작은수출력.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1071숫자0입력될때까지무한출력하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1071숫자0입력될때까지무한출력하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1074정수1개입력받아카운트다운출력.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1074정수1개입력받아카운트다운출력.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1076문자1개입력받아알파벳출력.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1076문자1개입력받아알파벳출력.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1077정수1개입력받아그수까지출력.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1077정수1개입력받아그수까지출력.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1079원하는문자가입력될때까지반복출력.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1079원하는문자가입력될때까지반복출력.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1080언제까지더해야할까.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1080언제까지더해야할까.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1082숫자16진수구구단.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1082숫자16진수구구단.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1087여기까지이제그만.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1087여기까지이제그만.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1092함께문제푸는날.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1092함께문제푸는날.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1097바둑알십자뒤집기2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1097바둑알십자뒤집기2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1098설탕과자뽑기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1098설탕과자뽑기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/문제1099성실한개미.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/문제1099성실한개미.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeup/스택/문제2016천단위구분기호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeup/스택/문제2016천단위구분기호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/DFS_Level2_Target_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/DFS_Level2_Target_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Hash_Level1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Hash_Level1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Hash_Level2_Camouflage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Hash_Level2_Camouflage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Hash_Level2_PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Hash_Level2_PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Stack_Level2_Feature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Stack_Level2_Feature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Stack_Level2_StockPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Stack_Level2_StockPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Stack_Level2_Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Stack_Level2_Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/문제2016년.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/문제2016년.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/toss/Toss_Server_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/toss/Toss_Server_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programmers/Brute_Force_Level1_Mock_Exam.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programmers/Brute_Force_Level1_Mock_Exam.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programmers/Brute_Froce_Level2_Decimal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programmers/Brute_Froce_Level2_Decimal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programmers/Hash_Level1_Marathon.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programmers/Hash_Level1_Marathon.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programmers/Hash_Level2_Camouflage_KT.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programmers/Hash_Level2_Camouflage_KT.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programmers/Hash_Level2_PhoneBook_KT.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programmers/Hash_Level2_PhoneBook_KT.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programmers/Sort_Level2_Biggest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programmers/Sort_Level2_Biggest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programmers/Sort_Level2_H_Index.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programmers/Sort_Level2_H_Index.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programmers/Sort_Level2_K.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programmers/Sort_Level2_K.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programmers/Stack_Level2_Top.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programmers/Stack_Level2_Top.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +77,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Object" />
         <option value="Kotlin Class" />
         <option value="Class" />
       </list>
@@ -48,7 +95,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaStream" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -62,13 +109,13 @@
       <recent name="C:\Users\seunghwan Seo\Desktop\GIT\algorithm\algorithm\src\main\kotlin\programmers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Stack_Level2_StockPrice">
-    <configuration name="DFS_Level2_Target_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.DFS_Level2_Target_Number" />
+  <component name="RunManager" selected="Application.문제두개뽑아서더하기">
+    <configuration name="문제카카오프렌즈컬러링북" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.레벨1.문제카카오프렌즈컬러링북" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.*" />
+          <option name="PATTERN" value="programmers.레벨1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,15 +123,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack_Level2_StockPrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.Stack_Level2_StockPrice" />
+    <configuration name="문제1463번1로만들기BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.DP.문제1463번1로만들기BFS" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.*" />
+          <option name="PATTERN" value="BOJ.DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="문제두개뽑아서더하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.레벨1.문제두개뽑아서더하기" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.레벨1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="문제2016년" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.문제2016년" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.레벨1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1" />
+      <module name="algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,8 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Stack_Level2_StockPrice" />
-        <item itemvalue="Application.DFS_Level2_Target_Number" />
+        <item itemvalue="Application.문제두개뽑아서더하기" />
+        <item itemvalue="Application.문제카카오프렌즈컬러링북" />
+        <item itemvalue="Application.문제2016년" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.문제1463번1로만들기BFS" />
       </list>
     </recent_temporary>
   </component>
@@ -136,41 +219,87 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="405" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1598499457527" />
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1603517667192">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1603517667192" />
     <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598504509802">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1598504509801" />
-    <state x="423" y="208" width="435" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599200913744">
+    <state x="423" y="208" width="435" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603715695442">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="423" y="208" width="435" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1599200913744" />
-    <state x="493" y="179" key="FileChooserDialogImpl" timestamp="1598504708146">
+    <state x="423" y="208" width="435" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1603715695442" />
+    <state x="493" y="179" key="FileChooserDialogImpl" timestamp="1602932054798">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="493" y="179" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598504708146" />
-    <state width="1281" height="170" key="GridCell.Tab.0.bottom" timestamp="1599217162758">
+    <state x="493" y="179" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602932054798" />
+    <state width="1237" height="150" key="GridCell.Tab.0.bottom" timestamp="1603786301601">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="170" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599217162758" />
-    <state width="1281" height="170" key="GridCell.Tab.0.center" timestamp="1599217162758">
+    <state width="1237" height="150" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603786301601" />
+    <state width="1237" height="150" key="GridCell.Tab.0.center" timestamp="1603786301600">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="170" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599217162758" />
-    <state width="1281" height="170" key="GridCell.Tab.0.left" timestamp="1599217162758">
+    <state width="1237" height="150" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603786301600" />
+    <state width="1237" height="150" key="GridCell.Tab.0.left" timestamp="1603786301600">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="170" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599217162758" />
-    <state width="1281" height="170" key="GridCell.Tab.0.right" timestamp="1599217162758">
+    <state width="1237" height="150" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603786301600" />
+    <state width="1237" height="150" key="GridCell.Tab.0.right" timestamp="1603786301601">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="170" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599217162758" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1598506766146">
+    <state width="1237" height="150" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603786301601" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1601294928443">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1598506766146" />
-    <state x="37" y="0" key="new project wizard" timestamp="1598504732814">
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601294928443" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1601294928443">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="37" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1598504732814" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1601294928443" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1601294928443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1601294928443" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1601294928443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1601294928443" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1602575625281">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602575625281" />
+    <state x="152" y="40" width="977" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602576999082">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="152" y="40" width="977" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1602576999082" />
+    <state x="347" y="72" width="587" height="536" key="find.popup" timestamp="1602136761857">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="347" y="72" width="587" height="536" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1602136761857" />
+    <state x="37" y="0" key="new project wizard" timestamp="1602860099788">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="37" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1602860099788" />
+    <state x="347" y="93" key="refactoring.ChangeSignatureDialog" timestamp="1601487085239">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="347" y="93" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1601487085239" />
+    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup" timestamp="1599901580730">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1599901580730" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

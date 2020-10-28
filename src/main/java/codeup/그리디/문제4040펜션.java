@@ -19,7 +19,6 @@ public class 문제4040펜션 {
             }
 
 
-
         } catch (IOException e) {
             e.printStackTrace();
         }

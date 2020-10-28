@@ -3,7 +3,7 @@ package programmers
 object Hash_Level2_PhoneBook_KT {
 
     fun solution(
-        phoneBook: Array<String>
+            phoneBook: Array<String>
     ): Boolean {
 
         //https://programmers.co.kr/learn/courses/30/lessons/42577

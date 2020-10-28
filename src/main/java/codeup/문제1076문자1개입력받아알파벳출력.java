@@ -9,7 +9,7 @@ public class 문제1076문자1개입력받아알파벳출력 {
 
         char startWord = 'a';
 
-        while(startWord <= word) {
+        while (startWord <= word) {
             System.out.print(startWord + " ");
             startWord++;
         }

@@ -8,7 +8,7 @@ public class 문제1071숫자0입력될때까지무한출력하기 {
 
         while (true) {
             int a = sc.nextInt();
-            if(a==0) {
+            if (a == 0) {
                 break;
             }
             System.out.println(a);

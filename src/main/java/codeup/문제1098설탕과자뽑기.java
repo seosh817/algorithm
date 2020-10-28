@@ -26,16 +26,16 @@ public class 문제1098설탕과자뽑기 {
                 int y = Integer.parseInt(temp[3]);
 
                 for (int j = 0; j < l; j++) {
-                   if(d==0) {
-                       arr[x-1][y-1+j] = 1;
-                   } else {
-                       arr[x-1+j][y-1] = 1;
-                   }
+                    if (d == 0) {
+                        arr[x - 1][y - 1 + j] = 1;
+                    } else {
+                        arr[x - 1 + j][y - 1] = 1;
+                    }
                 }
             }
 
-            for(int i=0; i<width; i++) {
-                for(int j=0; j<height; j++) {
+            for (int i = 0; i < width; i++) {
+                for (int j = 0; j < height; j++) {
                     System.out.print(arr[i][j] + " ");
                 }
                 System.out.println();

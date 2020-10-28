@@ -15,7 +15,7 @@ public class 문제1092함께문제푸는날 {
             day++;
         }*/
 
-        while(day%a !=0 || day % b != 0 || day%c != 0) {
+        while (day % a != 0 || day % b != 0 || day % c != 0) {
             day++;
         }
         System.out.println(day);

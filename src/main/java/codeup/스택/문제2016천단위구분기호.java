@@ -34,7 +34,6 @@ public class 문제2016천단위구분기호 {
             }
 
 
-
             Stack<String> printStack = new Stack<>();
 
             int count = 0;

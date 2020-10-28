@@ -8,7 +8,7 @@ public class 문제1046정수3개입력받아합과평균출력 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-        System.out.println(a+b+c);
-        System.out.println(String.format("%.1f", (a+b+c)/3f));
+        System.out.println(a + b + c);
+        System.out.println(String.format("%.1f", (a + b + c) / 3f));
     }
 }

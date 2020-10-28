@@ -32,7 +32,7 @@ public class 문제1099성실한개미 {
                             end = 1;
                             break;
                         } else {
-                            store = j-1;
+                            store = j - 1;
                             break;
                         }
                     }

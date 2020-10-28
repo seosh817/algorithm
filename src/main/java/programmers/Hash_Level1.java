@@ -14,14 +14,14 @@ public class Hash_Level1 {
         for (String player : completion) hm.put(player, hm.get(player) - 1);
 
         for (String key : hm.keySet()) {
-            if (hm.get(key) != 0){
+            if (hm.get(key) != 0) {
                 answer = key;
             }
         }
         return answer;
     }
 
-    public static void main(String [] args) {
-        System.out.println(solution(new String [] {"leo", "kiki", "eden"}, new String [] {"eden", "kiki"}));
+    public static void main(String[] args) {
+        System.out.println(solution(new String[]{"leo", "kiki", "eden"}, new String[]{"eden", "kiki"}));
     }
 }

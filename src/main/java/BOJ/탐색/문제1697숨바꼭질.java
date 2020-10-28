@@ -33,7 +33,7 @@ public class 문제1697숨바꼭질 {
                 int cur = queue.peek();
                 queue.poll();
                 if (cur == target) {
-                    System.out.println(road[cur] -1);
+                    System.out.println(road[cur] - 1);
                     return;
                 }
 

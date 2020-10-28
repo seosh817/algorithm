@@ -12,13 +12,13 @@ public class Stack_Level2_StockPrice {
     public static int[] solution(int[] prices) {
         int[] answer = new int[prices.length];
 
-        for(int i=0; i< prices.length-1; i++) {
+        for (int i = 0; i < prices.length - 1; i++) {
             answer[i] = 0;
         }
 
-        for(int i=0; i<prices.length-1; i++) {
-            for(int j=i+1; j<=prices.length-1; j++) {
-                if(prices[i] <= prices[j]) {
+        for (int i = 0; i < prices.length - 1; i++) {
+            for (int j = i + 1; j <= prices.length - 1; j++) {
+                if (prices[i] <= prices[j]) {
                     answer[i] = answer[i] + 1;
                 } else {
                     answer[i] = answer[i] + 1;
@@ -34,8 +34,8 @@ public class Stack_Level2_StockPrice {
         Stack<Integer> beginIdxs = new Stack<>();
 
         beginIdxs.push(0);
-        for(int i=1; i<prices.length-1; i++) {
-            while(!beginIdxs.empty() && prices[beginIdxs.peek()] > prices[i] ) {
+        for (int i = 1; i < prices.length - 1; i++) {
+            while (!beginIdxs.empty() && prices[beginIdxs.peek()] > prices[i]) {
                 int beginIdx = beginIdxs.pop();
                 answer[beginIdx] = i - beginIdx;
             }
