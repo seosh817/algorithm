@@ -38,25 +38,31 @@ public class 완주하지못한선수 {
 */
 
     public static String solution(String[] participant, String[] completion) {
-        String answer = "";
+
         HashMap<String, Integer> hashMap = new HashMap<>();
 
         for (int i = 0; i < participant.length; i++) {
-            hashMap.put(participant[i], 1);
+            hashMap.put(participant[i], hashMap.getOrDefault(participant[i], 0) + 1);
         }
-
-
-
 
         for (int i = 0; i < completion.length; i++) {
-
+            if (hashMap.containsKey(completion[i])) {
+                hashMap.put(completion[i], hashMap.get(completion[i]) - 1);
+            }
         }
 
+        String answer = "";
+        Set<Map.Entry<String, Integer>> entrySet = hashMap.entrySet();
+        for (Map.Entry<String, Integer> entry : entrySet) {
+            if (entry.getValue() != 0) {
+                answer = entry.getKey();
+            }
+        }
 
         return answer;
     }
 
     public static void main(String[] args) {
-        System.out.println(solution(new String[]{"leo", "kiki", "eden"}, new String[]{"eden", "kiki"}));
+        System.out.println(solution(new String[]{"mislav", "stanko", "mislav", "ana"}, new String[]{"stanko", "ana", "mislav"}));
     }
 }
