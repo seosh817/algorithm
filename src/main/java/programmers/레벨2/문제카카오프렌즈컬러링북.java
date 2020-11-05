@@ -1,4 +1,4 @@
-package programmers.레벨1;
+package programmers.레벨2;
 
 import BOJ.탐색.Pair;
 
