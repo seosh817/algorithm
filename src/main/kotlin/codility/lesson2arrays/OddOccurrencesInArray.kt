@@ -1,4 +1,4 @@
-package codility
+package codility.lesson2arrays
 
 fun main() {
     println(OddOccurrencesInArray().solution(intArrayOf(9, 3, 9, 3, 9, 7, 9)))

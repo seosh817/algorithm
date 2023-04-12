@@ -1,4 +1,4 @@
-package codility
+package codility.lesson3timecomplexity
 
 fun main() {
     println(FromJmp().solution(10, 85, 30))

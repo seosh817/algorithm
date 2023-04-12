@@ -1,4 +1,4 @@
-package codility
+package codility.lesson3timecomplexity
 
 fun main() {
     println(PermMissingElem().solution(intArrayOf(2, 3, 1, 5)))

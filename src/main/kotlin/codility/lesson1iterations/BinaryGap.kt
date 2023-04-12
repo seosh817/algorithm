@@ -1,4 +1,4 @@
-package codility
+package codility.lesson1iterations
 
 import kotlin.math.max
 

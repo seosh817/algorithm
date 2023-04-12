@@ -1,4 +1,4 @@
-package codility
+package codility.lesson2arrays
 
 fun main() {
     println(CyclicRotation().solution(intArrayOf(), 3))
